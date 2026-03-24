@@ -80,9 +80,9 @@ LIMIT 5;
 Retail-Sales-SQL/
 │
 ├── data
-   └──REATAIL_SALES.csv
+   └──RETAIL_SALES.csv
 ├── sql
-    └──REATAIL_SALES.sql
+    └──RETAIL_SALES.sql
 └── README.md
 ```
 
