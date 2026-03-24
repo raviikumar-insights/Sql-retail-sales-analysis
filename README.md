@@ -118,19 +118,6 @@ This project showcases:
 
 ---
 
-## ▶️ How to Run This Project
-
-1. Open MySQL Workbench / phpMyAdmin
-2. Create database
-3. Import dataset into `sales` table
-4. Run the SQL script
-
-```sql
-CREATE DATABASE retail_sales;
-USE retail_sales;
-```
-
----
 
 ## 👤 Author
 
