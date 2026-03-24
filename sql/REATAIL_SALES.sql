@@ -152,3 +152,5 @@ SELECT
         COUNT(transaction_ID) AS total_orders
 	FROM sales
     GROUP by shift;
+
+-- End the Project
